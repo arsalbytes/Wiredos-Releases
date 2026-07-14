@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/src/assets/images/icon.png" width="120" alt="Wiredos Logo" />
+  <img src="icon.png" width="120" alt="Wiredos Logo" />
   <h1>Wiredos</h1>
   <p><strong>The ultimate, lightning-fast iOS to PC file transfer and backup utility.</strong></p>
 </div>
@@ -33,11 +33,12 @@ Wiredos gives you complete control over your iPhone's media with versatile backu
 - **⚡ Native Performance:** Powered by Golang for system-level USB interactions ensuring maximum transfer speeds.
 - **🔄 Auto Updates:** Built-in OTA updater that automatically checks GitHub releases to keep you on the latest version.
 
-## 🛠️ Technology Stack
+## 💻 System Requirements
 
-- **Backend:** Go (Golang), Wails v2
-- **Frontend:** React 18, TypeScript, Tailwind CSS, Lucide Icons
-- **iOS Protocol:** go-ios (Reverse engineered AFC and lockdown protocols)
+- **OS:** Windows 10 or Windows 11 (64-bit)
+- **Hardware:** Apple USB Cable (Lightning or USB-C to USB-A/C)
+- **Memory:** Minimum 4GB RAM
+- **Device Support:** Works with any iPhone or iPad running iOS 12.0 or newer.
 
 ## 📦 Installation
 
