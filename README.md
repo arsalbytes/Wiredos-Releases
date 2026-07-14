@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" width="120" alt="Wiredos Logo" />
+  <img src="icon.png" width="150" alt="Wiredos Logo" />
   <h1>Wiredos</h1>
   <p><strong>The ultimate, lightning-fast iOS to PC file transfer and backup utility.</strong></p>
 </div>
