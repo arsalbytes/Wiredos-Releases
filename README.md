@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-**Wiredos** (formerly i-to-pc) is a modern, native Windows application built to seamlessly bridge the gap between your iPhone and your PC. Without requiring iTunes or any third-party app installations on your iOS device, Wiredos allows you to effortlessly view, manage, and back up your photos, videos, and albums.
+**Wiredos** is a modern, native Windows application built to seamlessly bridge the gap between your iPhone and your PC. Without requiring iTunes or any third-party app installations on your iOS device, Wiredos allows you to effortlessly view, manage, and back up your photos, videos, and albums.
 
 Built with **Wails (Go + React + TypeScript)**, it offers a blazing fast backend with a beautiful, frameless, and fully responsive frontend.
 
