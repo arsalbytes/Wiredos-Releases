@@ -2,6 +2,10 @@
   <img src="icon.png" width="250" alt="Wiredos Logo" />
   <h1>Wiredos</h1>
   <p><strong>The ultimate, lightning-fast iOS to PC file transfer and backup utility.</strong></p>
+  <!-- Download Buttons -->
+  <a href="https://github.com/arsalbytes/Wiredos-Releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/arsalbytes/Wiredos-Releases?label=Download%20Wiredos&style=for-the-badge&color=2563EB&logo=windows&logoColor=white" alt="Download Wiredos for Windows" />
+  </a>
 </div>
 
 <hr />
