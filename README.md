@@ -2,6 +2,7 @@
   <img src="icon.png" width="250" alt="Wiredos Logo" />
   <h1>Wiredos</h1>
   <p><strong>The ultimate, lightning-fast iOS to PC file transfer and backup utility.</strong></p>
+
   <!-- Download Buttons -->
   <a href="https://github.com/arsalbytes/Wiredos-Releases/releases/latest">
     <img src="https://img.shields.io/github/v/release/arsalbytes/Wiredos-Releases?label=Download%20Wiredos&style=for-the-badge&color=2563EB&logo=windows&logoColor=white" alt="Download Wiredos for Windows" />
@@ -33,6 +34,11 @@ Wiredos gives you complete control over your iPhone's media with versatile backu
 
 - **📱 No App Required on Phone:** Connect your iPhone via USB and access your media instantly.
 - **🖼️ Smart Media Gallery:** Browse your photos and videos with generated thumbnails directly on your PC before transferring.
+- **🔍 Full Media Viewer:** View photos and videos in a beautiful, edge-to-edge full-size viewer with native HEIC support and keyboard navigation.
+- **🗂️ Real Album Navigation:** View and browse your actual iPhone albums (like WhatsApp, Instagram, Recents) exactly as they appear on your device.
+- **✨ Smart Photo Filters:** Easily filter your media by iOS attributes like Live Photos, Favorites, or Hidden files.
+- **📊 Native Taskbar Progress:** Track real-time transfer progress directly on the Windows taskbar icon.
+- **🛡️ Smart Storage Check:** Automatically checks destination disk space before transfers to prevent disk full errors.
 - **🎨 Beautiful UI & Theming:** Enjoy a stunning, frameless design with built-in Light and Dark modes.
 - **⚡ Native Performance:** Powered by Golang for system-level USB interactions ensuring maximum transfer speeds.
 - **🔄 Auto Updates:** Built-in OTA updater that automatically checks GitHub releases to keep you on the latest version.
